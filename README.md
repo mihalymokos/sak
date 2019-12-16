@@ -1,5 +1,5 @@
 # sak [![kinetic](https://img.shields.io/badge/ros-melodic-blue.svg)](http://wiki.ros.org/melodic)
-Performs autonomus flying of a Ryze Tello Edu Drone with the help of barcode detection and OptiTrack positioning
+Performs autonomus flying of a Ryze Tello Edu drone with the help of barcode detection and OptiTrack positioning
 ## prerequisites for running:
 1.  Ryze Tello Edu
 2.  OptiTrack camera system
