@@ -14,6 +14,9 @@
 roslaunch sak sak.launch
 ````
 2.  run **fly_controller.py** for starting the autonomous control and the controller
+````bash
+rosrun sak fly_controller.py
+````
 
 ## keyboard controller using:
 1.  allow flip - (b)
